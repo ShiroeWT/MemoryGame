@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 8 Jan 2025, 11.37.18
+    Author     : MSI
+*/
+.root{
+    -fx-font-size: 24pt;
+    -fx-background-color: #B3E5FC;
+}
+
+.label{
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+}
+
+.button{
+    -fx-background-radius: 40px;
+}
